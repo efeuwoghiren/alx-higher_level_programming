@@ -1,5 +1,7 @@
 
 #!/usr/bin/node
-myvar = "JavaScript is amazing";
-console.log(myvar);
+// This script prints "JavaScript is amazing"
+
+myVar = "JavaScript is amazing";
+console.log(myVar);
 
